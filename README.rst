@@ -1,9 +1,7 @@
 Deprecated
 ==========
 
-This project is no longer under active development.
-
-You are encouraged to try out `pyenv <https://github.com/yyuu/pyenv>`_ instead.
+This project will now be maintained by the PyBank team. Feel free to join the team here: https://github.com/pybank
 
 Overview
 ========
