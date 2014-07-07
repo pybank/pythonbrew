@@ -1,4 +1,4 @@
-Deprecated
+Under Maintenance by PyBank team.
 ==========
 
 This project will now be maintained by the PyBank team. Feel free to join the team here: https://github.com/pybank
