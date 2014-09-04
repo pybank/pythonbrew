@@ -15,7 +15,7 @@ Installation
 
 The recommended way to download and install pythonbrew is to run these statements in your shell::
 
-  curl -kL http://xrl.us/pythonbrewinstall | bash
+  curl -kL http://po.st/pybrewinstall | bash
 
 After that, pythonbrew installs itself to ~/.pythonbrew. 
 
@@ -26,7 +26,7 @@ Please add the following line to the end of your ~/.bashrc::
 If you need to install pythonbrew into somewhere else, you can do that by setting a PYTHONBREW_ROOT environment variable::
 
   export PYTHONBREW_ROOT=/path/to/pythonbrew
-  curl -kLO http://xrl.us/pythonbrewinstall
+  curl -kLO http://po.st/pybrewinstall
   chmod +x pythonbrewinstall
   ./pythonbrewinstall
 
