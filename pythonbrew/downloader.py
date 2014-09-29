@@ -28,4 +28,7 @@ def get_pythonbrew_update_url(version):
         return PYTHONBREW_UPDATE_URL_PYPI % (version)
 
 def get_python_version_url(version):
-    return PYTHON_VERSION_URL.get(version)
+    url = PYTHON_VERSION_URL.get(version)
+    if not url:
+      url = "http://www.python.org/ftp/python/%s/Python-%s.tgz" % (version, version)
+    return url
